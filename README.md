@@ -44,13 +44,14 @@ Note:
 - **CSS** **file** **SHOULD NOT be renamed**
 
 
-Download MDX
+[Download MDX](https://github.com/dolanskurd/HenbaneBorine/blob/master/HenbaneBorine/Henbane%20Borine.mdx)
 
-Download MDD
+Download MDD (N/A)
 
-Download CSS
+Download CSS (N/A)
 
-Download Dictionary Icon
+[Download Dictionary Icon](https://github.com/dolanskurd/HenbaneBorine/blob/master/HenbaneBorine/Henbane%20Borine.png)
+
 
 
 
