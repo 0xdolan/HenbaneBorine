@@ -63,7 +63,8 @@ Download CSS (N/A)
 
 #### Mobile users:
 
-**iOS (iPhone / iPad ) **users can use “`File sharing`” function of **iTunes** to transfer files into devices.
+**iOS (iPhone / iPad )** users can use “`File sharing`” function of **iTunes** to transfer files into devices.
+
 **Android** users should put dictionary files into `/mnt/sdcard/mdict/doc` directory, or assign the path in “`Preference->extra dictionary path`”.
 
 
