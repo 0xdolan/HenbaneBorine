@@ -2,8 +2,7 @@
 
 (**Henbane Borine** - **هەنبانە بۆرینە**) is a **Kurdish Dictionary** for translating from **Kurdish** to **Kurdish** and **Persian** (**Farsi**) by  ***Abdurrahman* *Sharafkandi*** (**Hazhar**). In this version, only Kurdish to Persian and vice versa has been provided.
 
-![Ferhengî Henbane Borîne](E:\Programs\GoldenDict Files\Dolan - My Dicts\Dolan Dictionary\Vejin Kurdish Dictionary\Henbane Borine\Henbane Borine.png)
-
+![Ferhengî Henbane Borîne](https://user-images.githubusercontent.com/18519747/47601491-126c8580-d9da-11e8-8a69-ffb8eae74696.png)
 
 
 ## Installation
