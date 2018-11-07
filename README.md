@@ -14,6 +14,8 @@ Download and install the required and recommended software / apps for using `MDi
   [**Download MDict (Free)**](https://www.mdict.cn/download/MDictPC2.7z)
 
   [**Download GoldenDict (Free)**](https://sourceforge.net/projects/goldendict/files/early%20access%20builds/) (Recommended)
+  
+  **YouTube:** [**How to use GoldenDict?**](https://www.youtube.com/watch?v=bDipNBvhOVI)
 
 - ### MacOS
 
